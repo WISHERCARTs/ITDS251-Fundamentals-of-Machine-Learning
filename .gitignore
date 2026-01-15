@@ -1,0 +1,17 @@
+# ไฟล์ที่เป็นลิขสิทธิ์ของมหาวิทยาลัย - ไม่อัพโหลด
+# PDF เอกสารประกอบการสอน
+*.pdf
+
+# ไฟล์ Lab ต้นแบบจากอาจารย์
+68-2-*.ipynb
+67-2-*.ipynb
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
