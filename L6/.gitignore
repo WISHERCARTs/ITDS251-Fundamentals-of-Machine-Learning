@@ -1,0 +1,12 @@
+# === Ignore everything first ===
+*
+
+# === Allow only these files ===
+!.gitignore
+!README.md
+
+# Lab submission
+!6787074_Lab6 DL-Regression.ipynb
+
+# Dataset
+!california_housing.csv
