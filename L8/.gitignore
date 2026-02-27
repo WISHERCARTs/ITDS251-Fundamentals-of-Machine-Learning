@@ -1,0 +1,6 @@
+# University materials
+*.pdf
+
+# Dataset
+*.csv
+*.npy
