@@ -15,3 +15,13 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# Lab 14 - เฉพาะส่วนของ 6787074
+L14/*
+!L14/6787074*.ipynb
+!L14/README.md
+!L14/.gitignore
+
+# ไม่เอาไฟล์ข้อมูลและโมเดลขึ้น Git
+L14/*.csv
+L14/*.pk
